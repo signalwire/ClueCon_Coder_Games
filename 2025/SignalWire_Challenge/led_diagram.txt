@@ -1,0 +1,7 @@
+Breadboard Layout (Top View):
+
+[ESP32]           [Breadboard]
+Pin 13 ----|      |---- 220Ω ---- [Green LED] ---- GND Rail
+Pin 14 ----|      |---- 220Ω ---- [Yellow LED] --- GND Rail
+Pin 15 ----|      |---- 220Ω ---- [Red LED] ------ GND Rail
+GND   ----|      |---- GND Rail
