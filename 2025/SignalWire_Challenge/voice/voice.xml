@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+  <Say>Hello from SignalWire! This is a test call from your Coder Games SignalWire Challenge 2025 ESP32 Voice Call LED Status Monitor project. Be sure to visit signalwire.com for more information.</Say>
+  <Hangup/>
+</Response>
