@@ -19,7 +19,7 @@
 ## Code
 
 1. Clone this repo! `git clone https://github.com/signalwire/ClueCon_Coder_Games.git`
-2. `cd ClueCon_Coder_Games/2025/SignalWire_Challenge/sms/`
+2. `cd ClueCon_Coder_Games/2025/SignalWire_Maker_Challenge/sms/`
 4. Open `led_receive_sms.ino` in Arduino IDE
 5. You should also have `credentials.h` in the tab next to `led_receive_sms.ino`
 6. Edit and save the variables located in `credentials.h`
