@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/d5d07582-a487-43af-845a-438158669f19)
+![image](https://github.com/user-attachments/assets/3e3161ae-f592-4c7d-993d-96445652880f)
 
 ## Table of Contents
 1. [Introduction](#introduction)
