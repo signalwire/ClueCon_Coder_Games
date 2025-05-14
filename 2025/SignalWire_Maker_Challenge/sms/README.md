@@ -35,3 +35,4 @@
 
 ## Hardware
 
+<img src="https://github.com/user-attachments/assets/4f8f017c-0dcb-4dd5-9703-8f971c6c5930" alt="image" width="80%" />
