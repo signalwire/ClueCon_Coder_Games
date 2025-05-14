@@ -8,7 +8,7 @@
 
 ## Introduction
 
-
+The Maker Challenge is all about tinkering with hardware and building electronics in a fun and relaxed environment. This year, we challenge you to build an ESP32 device that responds to real-time phone calls or SMS using SignalWire APIs. Take it a step further and control your device through an AI agent.
 
 ## Getting Started
 
