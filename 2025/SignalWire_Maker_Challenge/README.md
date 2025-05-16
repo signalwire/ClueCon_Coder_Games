@@ -3,7 +3,9 @@
 
 ### CHALLENGE: Build an Arduino-powered device that responds to real-time phone calls or SMS using SignalWire APIs.
 ‍
-The Maker Challenge is all about tinkering with hardware and building electronics in a fun and relaxed environment. This year, we challenge you to build an ESP32 device that responds to real-time phone calls or SMS using SignalWire APIs. Take it a step further and control your device through an AI agent. We have simple examples to get you started, but where you take this challenge is up to you!
+The Maker Challenge is all about tinkering with hardware and building electronics in a fun and relaxed environment. This year, we challenge you to build an ESP32 device that responds to real-time phone calls or SMS using SignalWire APIs. Take it a step further and control your device through an AI agent. We have simple examples to get you started, but where you take this challenge is up to you! 
+
+### For more information visit https://www.cluecon.com/coder-games
 
 Examples:
 
