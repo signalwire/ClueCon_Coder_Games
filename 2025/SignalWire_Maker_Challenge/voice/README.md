@@ -36,3 +36,5 @@ The Maker Challenge is all about tinkering with hardware and building electronic
 ## Hardware
 
 <img src="https://github.com/user-attachments/assets/4f8f017c-0dcb-4dd5-9703-8f971c6c5930" alt="image" width="80%" />
+
+### For more information visit https://www.cluecon.com/coder-games
